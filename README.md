@@ -3,8 +3,8 @@
 A stripped-down, follow-along to [ Predicting the sequence specificities of DNA- and RNA-binding proteins by deep learning](https://doi.org/10.1038/nbt.3300)
 
 #### _k_-mer vs motif
-AAAAAATTATATA==TATTT==AAAA  
-- Highlighted part is the motif
+AAAAAATTATA<mark>TATATT</mark>TAAAA  
+- Highlighted part is the motif (TATATT)
 - The entire sequence is the _k_-mer. Your input sequences are also _k_-mers. 
 
 ### _k_-mer size
